@@ -1,0 +1,16 @@
+body {
+	background-color: #ee1c24;
+	color: #ffffff;
+	font-family: 'Quicksand', sans-serif;
+	font-size: 16px;
+	}
+a:link {
+	color: #ffffff;
+	text-decoration: none;
+	}
+a:hover {
+	text-decoration: underline;
+	}
+a:visited {
+	color: #cccccc;
+	}
